@@ -1,0 +1,22 @@
+/* Nav Style */
+
+.open-sans-normal {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+
+nav {
+    display: flex;
+}
+.nav_title {
+    font-weight: 800;
+    font-size: 45px;
+}
+#r_style {
+    color: #FD6E0A;
+}
