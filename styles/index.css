@@ -50,7 +50,7 @@ nav ul li a {
     font-size: 20px;
 }
 .header {
-    background-image: url(/images/developer.png),url(/images/header_bg.png);
+    background-image: url(images/developer.png),url(images/header_bg.png);
     background-repeat: no-repeat;
     background-position: top left, bottom right;
     background-size: 101px 491px, 573px 432px;
